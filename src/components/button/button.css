@@ -1,0 +1,23 @@
+button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: roboto, sans-serif;
+}
+
+button:hover {
+    background-color: transparent;
+}
+
+.buttonClick {
+    background-color: rgb(10, 183, 100);
+}
+
+.buttonReset {
+    background-color: rgb(221, 13, 13);
+}

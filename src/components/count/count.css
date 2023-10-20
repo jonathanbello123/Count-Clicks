@@ -1,0 +1,12 @@
+.count {
+    background-color: transparent;
+    border: 6px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    font-size: 46px;
+    font-weight: bold;
+
+}
